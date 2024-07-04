@@ -159,3 +159,25 @@ iframe{
 .sizeDivComics{
     width: 13%;
 }
+
+/* FOOTER */
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 10px 0;
+    align-items: center;
+}
+
+#H2Footer{
+    color: rgb(150, 10, 10);
+}
+
+.logoFooter{
+    width: 3%;
+}
+
+.imgFooter{
+    width: 12%;
+}
